@@ -2,9 +2,9 @@
 
 <nav>
 <ul>
-	<li><a href="/index.html">Home</a></li>
+	<li><a href="./index.html">Home</a></li>
 	<li><a href="/">Research</a></li>
-	<li><a href="/forschung.html">Forschung (German version)</a></li>
+	<li><a href="./forschung.html">Forschung (German version)</a></li>
 </ul>
 </nav>
 
@@ -15,7 +15,7 @@ please visit the [corresponding webpage of my host institution](https://www.phys
 
 <footer>
 <ul>
-	<li><a href="mailto:selg.simon@googlemail.com"</a></li>
+	<li><a href="mailto:selg.simon@googlemail.com">email</a></li>
 	<li><a href="https://github.com/SimonCSelg">github.com/SimonCSelg</a></li>
 </ul>
 </footer>
